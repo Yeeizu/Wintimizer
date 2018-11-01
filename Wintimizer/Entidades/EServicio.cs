@@ -55,6 +55,8 @@ namespace Wintimizer.Entidades
         {
             desactivarSoloTexto();
             RegistroKey.SetValue("Start", 4);
+            ServiceController sc = new ServiceController(NombreServicio);
+            if (sc.CanStop) sc.Stop();
         }
 
         public void activar()
