@@ -55,16 +55,12 @@ namespace Wintimizer.Entidades
         {
             desactivarSoloTexto();
             RegistroKey.SetValue("Start", 4);
-            ServiceController service = new ServiceController(NombreServicio);
-            service.Stop();
         }
 
         public void activar()
         {
             activarSoloTexto();
             RegistroKey.SetValue("Start", 3);
-            ServiceController service = new ServiceController(NombreServicio);
-            service.Start();
         }
 
         public void desactivarSoloTexto()
