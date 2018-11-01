@@ -1,0 +1,10 @@
+C:\Users\Sergio\Proyectos\C#\Wintimizer\Wintimizer\bin\Debug\Wintimizer.exe
+C:\Users\Sergio\Proyectos\C#\Wintimizer\Wintimizer\bin\Debug\Wintimizer.pdb
+C:\Users\Sergio\Proyectos\C#\Wintimizer\Wintimizer\obj\Debug\Wintimizer.csprojAssemblyReference.cache
+C:\Users\Sergio\Proyectos\C#\Wintimizer\Wintimizer\obj\Debug\Wintimizer.Properties.Resources.resources
+C:\Users\Sergio\Proyectos\C#\Wintimizer\Wintimizer\obj\Debug\Wintimizer.csproj.GenerateResource.cache
+C:\Users\Sergio\Proyectos\C#\Wintimizer\Wintimizer\obj\Debug\Wintimizer.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Proyectos\C#\Wintimizer\Wintimizer\obj\Debug\Wintimizer.exe
+C:\Users\Sergio\Proyectos\C#\Wintimizer\Wintimizer\obj\Debug\Wintimizer.pdb
+C:\Users\Sergio\Proyectos\C#\Wintimizer\Wintimizer\obj\Debug\Wintimizer.frmInicio.resources
+C:\Users\Sergio\Proyectos\C#\Wintimizer\Wintimizer\obj\Debug\Wintimizer.Vistas_Controladores.frmServicios.resources
